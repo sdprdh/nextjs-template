@@ -13,7 +13,6 @@ Template Next.js modern dengan integrasi React 19, Auth.js, Tailwind CSS, Prisma
 - Zod v4
 - ESLint
 - Prettier
-- Prettier Plugin Tailwind CSS
 
 ## Instalasi
 
