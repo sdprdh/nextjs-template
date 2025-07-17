@@ -1,0 +1,8 @@
+{
+    "plugins": ["prettier-plugin-tailwindcss"],
+    "tailwindFunctions": ["clsx", "classnames", "cva"],
+    "tabWidth": 4,
+    "useTabs": false,
+    "singleAttributePerLine": true,
+    "singleQuote": true
+}
